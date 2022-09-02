@@ -175,6 +175,8 @@ https://www.youtube.com/watch?v=KBQ8Qzg38Qw
 
 CONCLUSIONES
 
+Al aplicar de manera correcta las formulas y los conocimientos ganados en este capitulo se puede desarrollar de una manera mas sencilla los ejercicios.
+
 Se pudo determinar que es necesario conocer los conceptos de reactancia capacitiva, frecuencia, reactancia iductiva, entre otros para poder dar una correcta resolucion  a los ejercicios planteados.
 
 BIBLIOGRAFÍA
