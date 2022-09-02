@@ -8,15 +8,15 @@ NRC: 7322
 
 Nombre del profesor: Darwin Omar Alulema Flores
 
-Objetivo: Analizar los conceptos con la finalidad de resolver problemas y ejercicios
+Objetivo
+
+Comprender los temas tratados en los capitulos 17 y 18 del libro de Floyd para poder dar una correcta solucion a los problemas planteados
 
 OBJETIVOS ESPECÍFICOS
 
-Determinar correctamente las fórmulas de frecuencia crítica, ancho de banda, etc, para resolver los problemas planteados
+Dar un uso adecuado a las fórmulas de frecuencia crítica, ancho de banda, etc, para resolver los problemas planteados
 
 Determinar correctamente los pasos a seguir para resolver los problemas de circuitos en serie y paralelo
-
-Interpretar los resultados que se obtuvieron.
 
 MARCO TEÓRICO
 
@@ -175,7 +175,7 @@ https://www.youtube.com/watch?v=KBQ8Qzg38Qw
 
 CONCLUSIONES
 
-Al momento de desarrollar los ejercicios y problemas propuestos en los capítulos 17 y 18, se pudo determinar que es necesario conocer los conceptos de reactancia capacitiva, frecuencia, reactancia iductiva, etc, para llegar a los resultdos correctos.
+Se pudo determinar que es necesario conocer los conceptos de reactancia capacitiva, frecuencia, reactancia iductiva, entre otros para poder dar una correcta resolucion  a los ejercicios planteados.
 
 BIBLIOGRAFÍA
 
