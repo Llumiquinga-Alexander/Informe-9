@@ -20,11 +20,9 @@ Determinar correctamente los pasos a seguir para resolver los problemas de circu
 
 MARCO TEÓRICO
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/mapa1.png)
 
-![](
-
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/mapa2.png)
 
 EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
 
