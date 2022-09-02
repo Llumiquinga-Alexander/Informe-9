@@ -30,43 +30,43 @@ EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
 
 2. Determine la impedancia en la figura 17-59 y exprésela en forma polar.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/2.png)
 
 4. Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Ω.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/4.png)
 
 6. Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/6.png)
 
 8. Para el circuito de la figura 17-59, ¿es la frecuencia resonante más alta o más baja que el valor indicado por los valores de reactancia?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/8.png)
 
 10. En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/10.png)
 
 12. Para el circuito RLC de la figura 17-62, determine la frecuencia resonante.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/12.png)
 
 14. En la figura 17-62, determine el ángulo de fase entre el voltaje aplicado y la corriente a las frecuencias críticas. ¿Cuál es el ángulo de fase en condición de resonancia?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/14.png)
 
 16. Exprese en forma polar la impedancia del circuito de la figura 17-63.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/16.png)
 
 18. ¿A qué frecuencia el circuito de la figura 17-63 cambia su característica reactiva (de inductiva a capacitiva o viceversa)?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/18.png)
 
 20. Determine la impedancia total del circuito de la figura 17-63 a 50 kHz.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/20.png)
 
 22. ¿Cuáles la impedancia de un circuito resonante ideal dispuesto en paralelo (sinresistencia en las ramas)?
 
@@ -75,45 +75,45 @@ La impedancia  es demasiado grande.
 24. ¿Cuánta corriente se extrae de la fuente de la figura 17-64 en condición de resonancia?
 ¿Cuáles son las corrientes inductiva y capacitiva en la frecuencia resonante?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/24.png)
 
 26. Encuentre la impedancia total para cada circuito de la figura 17-65.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/26.png)
 
 28. Determine el voltaje entre las terminales de cada elemento mostrado en la figura 17-66, y expréselo en forma polar.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/28.png)
 
 30. ¿Cuál es la corriente a través de R2 en la figura 17-67?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/30.png)
 
 32. Determine la resistencia y la reactancia totales en la figura 17-68.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/32.png)
 
 34. Determine si existe un valor de C que hará Vab = 0 V en la figura 17-69. Si no lo hay, explique la razón.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/34.png)
 
 Vab no puede ser igual a 0 debido a que la rama LC no tiene una resistencia, por lo tanto, el voltaje de a-b solo puede tener un ángulo de fase de .Va no es igual ni en magnitud ni en ángulo de fase a Vb
 
 36. ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/36.png)
 
 38. Diseñe una red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 µH con resistencia de devanado de 5 Ω.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/38.png)
 
 40. Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho de banda? ¿Cuál es la frecuencia resonante?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/40.png)
 
 42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/42.png)
 
 Capitulo 18
 
