@@ -119,55 +119,55 @@ Capitulo 18
 
 2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%202.png)
 
 4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent = 5 V.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%204.png)
 
 6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la figura 18-40.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%206.png)
 
 8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%208.png)
 
 10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc = 1 kHz):
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%2010.png)
 
 12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%2012.png)
 
 14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent = 10 V).
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%2014.png)
 
 16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%2016.png)
 
 18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine el ancho de banda para cada filtro.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%2018.png)
 
 20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%2020.png)
 
 22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW = 0 Ω para cada bobina.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%2022.png)
 
 24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%2024.png)
 
 26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 50 V?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-9/blob/main/el%2026.png)
 
 VIDEO
 
